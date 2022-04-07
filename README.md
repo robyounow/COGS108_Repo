@@ -1,1 +1,2 @@
-# COGS108_Repo
+# MyFirstPullRequest
+To be used for the assignments in Cogs 108
